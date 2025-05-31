@@ -37,3 +37,12 @@ A simple and fun web app that fetches and displays random dad jokes from the **i
 ```bash
 git clone https://github.com/omsaidesaii/joke-generator.git
 cd joke-generator
+```
+
+Then open `index.html` in your browser.
+
+## 📌 LIVE DEMO
+
+Check it out here: *(https://jokegenerator-seven.vercel.app/)*
+
+---
